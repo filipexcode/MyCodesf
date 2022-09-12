@@ -17,10 +17,9 @@ int main() {
 	scanf("%s", &sexo);
 	
 	
-	
 	printf ("O nome informado foi: %s \n",nome);
-    printf ("A idade informada foi: %d \n",idade);
-    printf ("O sexo informado foi: %s \n",sexo);
+	printf ("A idade informada foi: %d \n",idade);
+ 	printf ("O sexo informado foi: %s \n",sexo);
 	
 	
 	
