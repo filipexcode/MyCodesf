@@ -32,22 +32,22 @@ int main(){
 	scanf("%s",&anona);
 
 
-		printf("----------------------------------------\n");
-		printf("DADOS INFORMADOS\n");
-		printf("----------------------------------------\n");
+	printf("----------------------------------------|\n");
+	printf("|           DADOS INFORMADOS            |\n");
+	printf("----------------------------------------|\n");
 
 
 
-	printf("NOME = %s\n",nome);
-	printf("IDADE = %d\n",idade);
-	printf("SEXO = %s\n",sexo);
-	printf("ALTURA = %.2f\n",altura);
-	printf("ENDERECO = %s\n",end);
-	printf("NUMERO(endereco) = %d\n",numeroend);
-	printf("CPF = %s\n",cpf);
-	printf("ANO DE NASCIMENTO = %s\n",anona);
+	printf("|NOME = %s\n",nome);
+	printf("|IDADE = %d\n",idade);
+	printf("|SEXO = %s\n",sexo);
+	printf("|ALTURA = %.2f\n",altura);
+	printf("|ENDERECO = %s\n",end);
+	printf("|NUMERO(endereco) = %d\n",numeroend);
+	printf("|CPF = %s\n",cpf);
+	printf("|ANO DE NASCIMENTO = %s\n",anona);
 
-		printf("----------------------------------------\n");
+	printf("|----------------------------------------|\n");
 
 	return 0;
 }
